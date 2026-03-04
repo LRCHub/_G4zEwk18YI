@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Five",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-03-04T16:41:51.551025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Five Dollar Fine",
+      "artist": "Chris LeDoux",
+      "has_synced": false,
+      "path": "select/01_Five_Dollar_Fine_Chris_LeDoux.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Five Feet High and Rising - Live Version",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/02_Five_Feet_High_and_Rising_-_Live_Version_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Five Feet High and Rising (Live Version)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/03_Five_Feet_High_and_Rising_(Live_Version)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Five Hundred Miles Away From Home",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/04_Five_Hundred_Miles_Away_From_Home_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Five Hundred Miles Away From Home (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/05_Five_Hundred_Miles_Away_From_Home_(Album_Version)_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Five Minutes",
+      "artist": "Lorrie Morgan",
+      "has_synced": false,
+      "path": "select/06_Five_Minutes_Lorrie_Morgan.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Five More Minutes",
+      "artist": "Scotty McCreery",
+      "has_synced": true,
+      "path": "select/07_Five_More_Minutes_Scotty_McCreery.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Five O'Clock World",
+      "artist": "Hal Ketchum",
+      "has_synced": false,
+      "path": "select/08_Five_O'Clock_World_Hal_Ketchum.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Five Year Plan",
+      "artist": "The Deslondes",
+      "has_synced": true,
+      "path": "select/09_Five_Year_Plan_The_Deslondes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Five O' Clock Somewhere",
+      "artist": "Alan Jackson & Jimmy Buffet",
+      "has_synced": true,
+      "path": "select/10_It's_Five_O'_Clock_Somewhere_Alan_Jackson_&_Jimmy_Buffet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Five O'Clock Somewhere",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/11_It's_Five_O'Clock_Somewhere_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love At The Five & Dime",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/12_Love_At_The_Five_&_Dime_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Five",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Five_嵐.txt"
+    }
+  ]
+}
